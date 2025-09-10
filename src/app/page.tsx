@@ -9,7 +9,7 @@ export default function Home() {
         <div className="content">
           <h2>Welcome to our homepage</h2>
           <div className="image-container">
-            <img src="/anfal.jpg" alt="Sample website image" className="sample-image" />
+            <img src="/anfal.jpg" alt="Sample website image" className="sample-image" width={200} />
           </div>
           <p>This is a simple Next.js 14+ project built with TypeScript and vanilla CSS.</p>
         </div>
